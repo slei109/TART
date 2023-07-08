@@ -24,7 +24,7 @@ Extensive experiments are conducted on four benchmark datasets and our method de
 
 The figure gives an overview of our model.
 
-<img src="assets/model.png" width="65%">
+<img src="assets/model.png" width="75%">
 
 ### Data
 
@@ -55,3 +55,6 @@ You can also adjust the model by modifying the parameters in the `tart.sh` file.
 - termcolor 1.1.0
 - tqdm 4.62.3
 - CUDA 11.1
+
+## Acknowledgement
+The implementation is based on [MLADA](https://github.com/hccngu/MLADA). <br>

@@ -43,4 +43,4 @@ python ../src/main.py \
     --lr_d 1e-3 \
     --Comments "20newsgroup" \
     --patience 20 \
-    --seed 3 \
+    --seed 123 \

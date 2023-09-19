@@ -7,11 +7,21 @@ This repository contains the code and data for our ACL 2023 paper:
 If you find this work useful and use it in your own research, please cite our paper.
 
 `````
-@article{lei2023tart,
-  title={TART: Improved Few-shot Text Classification Using Task-Adaptive Reference Transformation},
-  author={Lei, Shuo and Zhang, Xuchao and He, Jianfeng and Chen, Fanglan and Lu, Chang-Tien},
-  journal={arXiv preprint arXiv:2306.02175},
-  year={2023}
+@inproceedings{lei-etal-2023-tart,
+    title = "{TART}: Improved Few-shot Text Classification Using Task-Adaptive Reference Transformation",
+    author = "Lei, Shuo  and
+      Zhang, Xuchao  and
+      He, Jianfeng  and
+      Chen, Fanglan  and
+      Lu, Chang-Tien",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.617",
+    doi = "10.18653/v1/2023.acl-long.617",
+    pages = "11014--11026",
 }
 `````
 
